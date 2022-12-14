@@ -1,0 +1,18 @@
+namespace: mattgeddes
+name: infrascale
+version: 0.0.1
+readme: README.md
+authors:
+- Matthew Geddes
+description: A collection of plugins, roles and playbooks for deploying and managing nodes at scale.
+license:
+- Apache-2.0
+#license_file: ''
+tags: []
+dependencies: {}
+repository: https://github.com/mattgeddes/infrascale
+documentation: https://github.com/mattgeddes/infrascale/blob/main/README.md
+homepage: https://github.com/mattgeddes/infrascale
+issues: https://github.com/mattgeddes/infrascale/issues
+build_ignore: []
+
